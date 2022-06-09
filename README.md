@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Gabriel! Nice to meet you!
 <img align="right" height="150em" src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2018/09/localizacao-tempo-real-whatsapp.gif"/>
-<div>- 🖥️ I’m currently working on Rest Api development with Java/Kotlin using Spring Framework.</div>
-<div>- 📚 I’m currently learning Flutter and keeping up with Spring and java/kotlin.</div>
+<div>- 🖥️ I have worked with Rest Api development with Java/Kotlin using Spring Framework.</div>
+<div>- 📚 I’m currently working with Flutter and keeping up with Spring and java/kotlin.</div>
  
 ##
   <h1>
